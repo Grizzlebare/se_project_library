@@ -2,6 +2,7 @@
 
 The Triple Peaks Library webpage is the first project in the Software Engineering
 program at TripleTen. It was created using HTML and CSS, based on a design brief.
+(https://grizzlebare.github.io/se_project_library/)
 
 ## Project features
 
